@@ -1,0 +1,20 @@
+{
+  "name": "eventshevent",
+  "version": "1.0.0",
+  "description": "Campus event and venue management system with student, administrator, and master dashboards.",
+  "main": "server.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "campus-events",
+    "event-management",
+    "venue-booking",
+    "student-portal"
+  ],
+  "author": "",
+  "license": "MIT"
+}

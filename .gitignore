@@ -1,0 +1,9 @@
+node_modules/
+npm-debug.log*
+
+# Runtime data with accounts, passwords, uploaded ID cards, and event images.
+data/db.json
+data/*.json
+
+# Local server logs.
+*.log
